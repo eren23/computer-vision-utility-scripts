@@ -7,7 +7,7 @@ import subprocess
 
 labels = ["humanface", "humanbody"] # Name for the folder to be created
 
-sample_size = 10 # How much do we need from each picture
+sample_size = 10 # How many images do we need
 
 IMAGE_PATH = os.path.join("images","collected") #Path
 
